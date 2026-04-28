@@ -24,6 +24,8 @@ This page highlights where and when sales occur. It includes regional comparison
 ### 4. Overview 
 
 
+https://github.com/user-attachments/assets/8f5ea7b2-b05d-4256-a26d-1d5fcc2d3e47
+
 ## Key Features
 - Three-page interactive dashboard design
 - KPI cards for executive-level monitoring
