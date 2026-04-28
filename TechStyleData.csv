@@ -1,0 +1,351 @@
+Date,OrderID,CustomerID,CustomerSegment,Product,Category,Region,Store,Units,Sales,Cost
+2023-01-01,ORD1021,CUST2021,Consumer,Webcam HD,Accessories,West,Seattle,4,298.87,149.45
+2023-01-02,ORD1062,CUST2062,Consumer,"Monitor 27""",Displays,Midwest,Detroit,4,1333.83,833.66
+2023-01-08,ORD1194,CUST2194,Consumer,"Monitor 27""",Displays,Midwest,Chicago,2,626.51,391.58
+2023-01-15,ORD1106,CUST2106,Consumer,Wireless Mouse,Accessories,Midwest,Chicago,2,81.56,32.63
+2023-01-15,ORD1306,CUST2306,Small Business,Webcam HD,Accessories,Midwest,Minneapolis,2,139.31,69.66
+2023-01-16,ORD1338,CUST2338,Consumer,"Monitor 27""",Displays,Southeast,Charlotte,2,656.26,410.17
+2023-01-17,ORD1326,CUST2326,Consumer,"Monitor 32""",Displays,Southeast,Atlanta,2,875.27,557.0
+2023-01-20,ORD1197,CUST2197,Small Business,Router Mesh,Networking,Northeast,New York,1,158.46,95.08
+2023-01-24,ORD1274,CUST2274,Corporate,Tablet X,Mobile Devices,West,Los Angeles,4,1865.28,1305.72
+2023-01-27,ORD1171,CUST2171,Consumer,Wireless Mouse,Accessories,Northeast,New York,2,76.11,30.45
+2023-01-27,ORD1252,CUST2252,Corporate,Mechanical Keyboard,Accessories,West,Los Angeles,3,300.05,150.04
+2023-02-03,ORD1250,CUST2250,Corporate,Wireless Mouse,Accessories,West,San Francisco,1,38.3,15.32
+2023-02-07,ORD1302,CUST2302,Small Business,External Drive 1TB,Storage,West,Seattle,4,266.87,150.13
+2023-02-08,ORD1303,CUST2303,Small Business,Laptop Pro,Computers,Midwest,Minneapolis,1,1090.22,796.71
+2023-02-10,ORD1210,CUST2210,Small Business,"Monitor 32""",Displays,West,San Francisco,2,849.95,540.89
+2023-02-12,ORD1208,CUST2208,Small Business,Router Mesh,Networking,Southeast,Miami,1,154.41,92.65
+2023-02-12,ORD1240,CUST2240,Corporate,Webcam HD,Accessories,Midwest,Minneapolis,5,361.51,180.77
+2023-02-16,ORD1266,CUST2266,Corporate,Printer Pro,Peripherals,Southeast,Charlotte,2,457.44,274.47
+2023-02-16,ORD1281,CUST2281,Corporate,Desktop Elite,Computers,Southeast,Charlotte,3,3847.4,2885.57
+2023-02-16,ORD1319,CUST2319,Consumer,SSD 500GB,Storage,Midwest,Minneapolis,2,183.54,107.07
+2023-02-21,ORD1298,CUST2298,Consumer,"Monitor 32""",Displays,Southeast,Atlanta,1,449.56,286.09
+2023-02-27,ORD1144,CUST2144,Corporate,Scanner Plus,Peripherals,Midwest,Detroit,1,200.62,120.37
+2023-03-02,ORD1027,CUST2027,Corporate,"Monitor 32""",Displays,Northeast,Boston,1,535.58,340.83
+2023-03-05,ORD1209,CUST2209,Small Business,Router Mesh,Networking,Northeast,New York,1,202.91,121.75
+2023-03-06,ORD1239,CUST2239,Consumer,Router Mesh,Networking,Northeast,New York,1,193.98,116.39
+2023-03-11,ORD1040,CUST2040,Small Business,"Monitor 32""",Displays,West,Seattle,1,555.19,353.31
+2023-03-12,ORD1045,CUST2045,Consumer,"Monitor 32""",Displays,Midwest,Detroit,1,552.37,351.51
+2023-03-12,ORD1320,CUST2320,Corporate,Switch 8-Port,Networking,Northeast,New York,1,86.71,48.18
+2023-03-13,ORD1058,CUST2058,Small Business,Printer Pro,Peripherals,Midwest,Minneapolis,1,314.42,188.66
+2023-03-15,ORD1010,CUST2010,Corporate,Mechanical Keyboard,Accessories,Southeast,Atlanta,1,136.35,68.18
+2023-03-16,ORD1337,CUST2337,Consumer,"Monitor 27""",Displays,Southeast,Miami,3,1179.93,737.47
+2023-03-17,ORD1176,CUST2176,Consumer,Tablet X,Mobile Devices,Midwest,Minneapolis,1,586.49,410.55
+2023-03-17,ORD1260,CUST2260,Small Business,Router Mesh,Networking,West,Los Angeles,1,207.55,124.54
+2023-03-25,ORD1191,CUST2191,Corporate,Printer Pro,Peripherals,West,Los Angeles,1,298.25,178.96
+2023-03-25,ORD1314,CUST2314,Small Business,Router Mesh,Networking,Midwest,Chicago,1,206.57,123.95
+2023-03-29,ORD1110,CUST2110,Corporate,"Monitor 32""",Displays,Northeast,Philadelphia,2,1131.96,720.35
+2023-03-31,ORD1255,CUST2255,Consumer,Webcam HD,Accessories,Midwest,Minneapolis,2,176.21,88.11
+2023-04-02,ORD1301,CUST2301,Corporate,"Monitor 32""",Displays,Northeast,Boston,3,1596.48,1015.96
+2023-04-03,ORD1207,CUST2207,Small Business,External Drive 1TB,Storage,West,Los Angeles,4,327.6,184.3
+2023-04-04,ORD1123,CUST2123,Corporate,Switch 8-Port,Networking,Midwest,Detroit,1,86.43,48.02
+2023-04-05,ORD1336,CUST2336,Corporate,"Monitor 27""",Displays,Northeast,New York,2,808.21,505.15
+2023-04-06,ORD1068,CUST2068,Consumer,"Monitor 32""",Displays,Midwest,Chicago,1,525.03,334.12
+2023-04-10,ORD1162,CUST2162,Corporate,"Monitor 32""",Displays,Southeast,Miami,1,574.71,365.73
+2023-04-11,ORD1341,CUST2341,Corporate,Switch 8-Port,Networking,Midwest,Chicago,1,85.9,47.73
+2023-04-13,ORD1044,CUST2044,Corporate,Tablet X,Mobile Devices,Southeast,Charlotte,1,590.93,413.66
+2023-04-13,ORD1143,CUST2143,Corporate,Router Mesh,Networking,Southeast,Charlotte,3,572.73,343.66
+2023-04-13,ORD1299,CUST2299,Consumer,Wireless Mouse,Accessories,Northeast,Philadelphia,1,52.16,20.87
+2023-04-15,ORD1001,CUST2001,Consumer,Tablet X,Mobile Devices,West,Seattle,1,583.95,408.77
+2023-04-20,ORD1071,CUST2071,Small Business,SSD 500GB,Storage,Southeast,Atlanta,2,229.19,133.7
+2023-04-21,ORD1159,CUST2159,Small Business,"Monitor 32""",Displays,West,Seattle,3,1660.1,1056.45
+2023-04-23,ORD1288,CUST2288,Corporate,"Monitor 27""",Displays,Northeast,New York,1,396.51,247.82
+2023-04-26,ORD1305,CUST2305,Corporate,Webcam HD,Accessories,Southeast,Charlotte,2,183.91,91.97
+2023-04-27,ORD1130,CUST2130,Consumer,Router Mesh,Networking,Northeast,Philadelphia,1,204.32,122.6
+2023-04-28,ORD1089,CUST2089,Small Business,Mechanical Keyboard,Accessories,Midwest,Chicago,1,127.55,63.78
+2023-04-29,ORD1047,CUST2047,Corporate,Smartphone Plus,Mobile Devices,Southeast,Miami,2,1839.15,1328.29
+2023-05-03,ORD1195,CUST2195,Corporate,Laptop Pro,Computers,West,Los Angeles,1,1284.42,938.62
+2023-05-04,ORD1092,CUST2092,Corporate,Desktop Elite,Computers,Midwest,Minneapolis,2,3062.05,2296.55
+2023-05-08,ORD1262,CUST2262,Consumer,Wireless Mouse,Accessories,Midwest,Chicago,1,51.04,20.42
+2023-05-09,ORD1264,CUST2264,Small Business,Scanner Plus,Peripherals,Northeast,Philadelphia,1,261.03,156.62
+2023-05-10,ORD1107,CUST2107,Small Business,Switch 8-Port,Networking,Northeast,Boston,1,89.8,49.89
+2023-05-10,ORD1249,CUST2249,Corporate,Tablet X,Mobile Devices,Southeast,Charlotte,1,626.96,438.88
+2023-05-15,ORD1154,CUST2154,Small Business,Tablet X,Mobile Devices,Midwest,Detroit,1,582.04,407.43
+2023-05-16,ORD1317,CUST2317,Consumer,SSD 500GB,Storage,West,Los Angeles,2,244.13,142.42
+2023-05-17,ORD1312,CUST2312,Small Business,Switch 8-Port,Networking,Southeast,Miami,5,444.26,246.84
+2023-05-21,ORD1153,CUST2153,Corporate,Smartphone Plus,Mobile Devices,Northeast,New York,1,887.83,641.22
+2023-05-21,ORD1251,CUST2251,Small Business,Headset Premium,Accessories,West,San Francisco,1,167.36,83.68
+2023-05-22,ORD1015,CUST2015,Consumer,Switch 8-Port,Networking,Northeast,Boston,1,86.93,48.3
+2023-05-23,ORD1257,CUST2257,Corporate,"Monitor 32""",Displays,West,Seattle,2,1085.56,690.82
+2023-05-26,ORD1117,CUST2117,Corporate,Tablet X,Mobile Devices,Northeast,Boston,2,1238.89,867.24
+2023-05-26,ORD1188,CUST2188,Small Business,Laptop Pro,Computers,Northeast,Philadelphia,1,1289.57,942.38
+2023-05-28,ORD1139,CUST2139,Corporate,SSD 500GB,Storage,Southeast,Atlanta,2,234.34,136.71
+2023-05-30,ORD1229,CUST2229,Corporate,Wireless Mouse,Accessories,Northeast,New York,2,96.37,38.56
+2023-05-31,ORD1226,CUST2226,Corporate,SSD 500GB,Storage,Northeast,Boston,3,375.47,219.04
+2023-06-02,ORD1051,CUST2051,Small Business,Desktop Elite,Computers,Midwest,Minneapolis,1,1540.38,1155.29
+2023-06-02,ORD1282,CUST2282,Corporate,Wireless Mouse,Accessories,Midwest,Minneapolis,1,52.44,20.98
+2023-06-04,ORD1077,CUST2077,Consumer,"Monitor 32""",Displays,West,Los Angeles,2,1052.05,669.5
+2023-06-06,ORD1181,CUST2181,Consumer,Switch 8-Port,Networking,Northeast,Boston,1,86.36,47.98
+2023-06-06,ORD1203,CUST2203,Corporate,Tablet X,Mobile Devices,Southeast,Charlotte,1,603.81,422.68
+2023-06-07,ORD1265,CUST2265,Consumer,Mechanical Keyboard,Accessories,Midwest,Minneapolis,3,371.58,185.8
+2023-06-10,ORD1113,CUST2113,Consumer,"Monitor 32""",Displays,Southeast,Charlotte,1,544.96,346.8
+2023-06-12,ORD1129,CUST2129,Corporate,Scanner Plus,Peripherals,Northeast,Philadelphia,1,262.3,157.38
+2023-06-14,ORD1124,CUST2124,Corporate,Webcam HD,Accessories,West,Los Angeles,1,94.0,47.0
+2023-06-19,ORD1220,CUST2220,Corporate,Router Mesh,Networking,Northeast,New York,2,389.48,233.7
+2023-06-22,ORD1201,CUST2201,Small Business,Tablet X,Mobile Devices,Northeast,Philadelphia,1,616.56,431.6
+2023-06-29,ORD1331,CUST2331,Corporate,SSD 500GB,Storage,West,Seattle,4,488.18,284.8
+2023-07-04,ORD1245,CUST2245,Consumer,Scanner Plus,Peripherals,Midwest,Chicago,1,244.88,146.93
+2023-07-09,ORD1308,CUST2308,Consumer,Wireless Mouse,Accessories,West,San Francisco,1,49.41,19.77
+2023-07-13,ORD1325,CUST2325,Corporate,Smartphone Plus,Mobile Devices,Northeast,Philadelphia,2,1878.5,1356.71
+2023-07-14,ORD1273,CUST2273,Corporate,Mechanical Keyboard,Accessories,West,Los Angeles,1,127.5,63.76
+2023-07-16,ORD1007,CUST2007,Consumer,Tablet X,Mobile Devices,Northeast,Philadelphia,2,1258.21,880.76
+2023-07-19,ORD1278,CUST2278,Corporate,Headset Premium,Accessories,Midwest,Chicago,2,328.44,164.23
+2023-07-22,ORD1116,CUST2116,Consumer,SSD 500GB,Storage,Northeast,Philadelphia,2,249.78,145.72
+2023-07-23,ORD1020,CUST2020,Small Business,Wireless Mouse,Accessories,Midwest,Chicago,4,208.41,83.38
+2023-07-24,ORD1087,CUST2087,Consumer,Laptop Pro,Computers,Southeast,Atlanta,1,1249.86,913.37
+2023-07-24,ORD1254,CUST2254,Corporate,Smartphone Plus,Mobile Devices,Southeast,Atlanta,1,919.19,663.87
+2023-07-28,ORD1048,CUST2048,Consumer,Printer Pro,Peripherals,West,San Francisco,1,297.7,178.62
+2023-07-28,ORD1289,CUST2289,Small Business,SSD 500GB,Storage,West,Los Angeles,1,115.65,67.47
+2023-08-01,ORD1169,CUST2169,Consumer,"Monitor 27""",Displays,Southeast,Miami,2,807.66,504.8
+2023-08-01,ORD1290,CUST2290,Corporate,Webcam HD,Accessories,West,Los Angeles,1,87.05,43.53
+2023-08-04,ORD1066,CUST2066,Corporate,SSD 500GB,Storage,Midwest,Detroit,1,116.55,68.0
+2023-08-06,ORD1098,CUST2098,Corporate,Headset Premium,Accessories,Midwest,Detroit,3,489.63,244.83
+2023-08-08,ORD1217,CUST2217,Consumer,Webcam HD,Accessories,West,Seattle,5,434.42,217.24
+2023-08-09,ORD1004,CUST2004,Corporate,Webcam HD,Accessories,Northeast,Boston,1,93.12,46.56
+2023-08-09,ORD1179,CUST2179,Corporate,SSD 500GB,Storage,West,Seattle,1,119.43,69.67
+2023-08-09,ORD1231,CUST2231,Corporate,Wireless Mouse,Accessories,West,Seattle,1,48.1,19.24
+2023-08-11,ORD1328,CUST2328,Corporate,Desktop Elite,Computers,Southeast,Charlotte,1,1666.61,1249.97
+2023-08-12,ORD1088,CUST2088,Consumer,Router Mesh,Networking,Midwest,Detroit,2,418.53,251.13
+2023-08-15,ORD1342,CUST2342,Small Business,Wireless Mouse,Accessories,Northeast,New York,4,201.54,80.63
+2023-08-20,ORD1111,CUST2111,Corporate,External Drive 1TB,Storage,West,San Francisco,3,251.73,141.62
+2023-08-22,ORD1057,CUST2057,Consumer,"Monitor 32""",Displays,Northeast,Philadelphia,1,537.81,342.25
+2023-08-25,ORD1103,CUST2103,Consumer,Smartphone Plus,Mobile Devices,Southeast,Miami,2,1881.14,1358.61
+2023-08-27,ORD1008,CUST2008,Corporate,Smartphone Plus,Mobile Devices,West,San Francisco,2,1775.65,1282.43
+2023-08-30,ORD1165,CUST2165,Corporate,Headset Premium,Accessories,Northeast,Philadelphia,2,335.27,167.65
+2023-09-02,ORD1232,CUST2232,Consumer,SSD 500GB,Storage,West,Seattle,3,359.96,210.0
+2023-09-04,ORD1100,CUST2100,Consumer,Switch 8-Port,Networking,West,San Francisco,1,87.48,48.61
+2023-09-06,ORD1339,CUST2339,Small Business,"Monitor 27""",Displays,West,Seattle,1,391.31,244.58
+2023-09-09,ORD1096,CUST2096,Consumer,Tablet X,Mobile Devices,Midwest,Detroit,2,1208.36,845.87
+2023-09-09,ORD1344,CUST2344,Corporate,Switch 8-Port,Networking,Midwest,Detroit,4,365.06,202.83
+2023-09-12,ORD1032,CUST2032,Corporate,"Monitor 27""",Displays,Southeast,Charlotte,1,387.33,242.09
+2023-09-13,ORD1072,CUST2072,Corporate,Smartphone Plus,Mobile Devices,West,Seattle,2,1887.8,1363.43
+2023-09-14,ORD1224,CUST2224,Small Business,Desktop Elite,Computers,West,San Francisco,4,6535.26,4901.47
+2023-09-15,ORD1017,CUST2017,Small Business,Laptop Pro,Computers,Northeast,Philadelphia,2,2669.82,1951.03
+2023-09-16,ORD1085,CUST2085,Small Business,Tablet X,Mobile Devices,West,Seattle,2,1259.97,881.99
+2023-09-16,ORD1213,CUST2213,Small Business,Wireless Mouse,Accessories,Midwest,Chicago,2,104.15,41.67
+2023-09-17,ORD1241,CUST2241,Corporate,Desktop Elite,Computers,Southeast,Miami,3,4582.92,3437.21
+2023-09-19,ORD1335,CUST2335,Consumer,"Monitor 27""",Displays,Midwest,Minneapolis,4,1655.5,1034.71
+2023-09-24,ORD1253,CUST2253,Corporate,Router Mesh,Networking,Southeast,Charlotte,2,419.92,251.97
+2023-09-25,ORD1042,CUST2042,Corporate,"Monitor 27""",Displays,Midwest,Chicago,1,406.86,254.29
+2023-09-27,ORD1019,CUST2019,Corporate,Mechanical Keyboard,Accessories,Northeast,Philadelphia,3,390.27,195.15
+2023-09-28,ORD1277,CUST2277,Consumer,Headset Premium,Accessories,West,San Francisco,1,161.11,80.56
+2023-09-28,ORD1292,CUST2292,Corporate,Switch 8-Port,Networking,Southeast,Atlanta,2,175.03,97.25
+2023-09-29,ORD1024,CUST2024,Small Business,SSD 500GB,Storage,Southeast,Charlotte,2,245.09,142.98
+2023-09-29,ORD1060,CUST2060,Corporate,Desktop Elite,Computers,Northeast,Philadelphia,1,1645.82,1234.37
+2023-09-29,ORD1172,CUST2172,Corporate,Desktop Elite,Computers,Southeast,Charlotte,2,3278.59,2458.96
+2023-10-04,ORD1095,CUST2095,Small Business,Switch 8-Port,Networking,West,San Francisco,2,176.78,98.22
+2023-10-05,ORD1297,CUST2297,Small Business,Printer Pro,Peripherals,Southeast,Atlanta,2,584.34,350.61
+2023-10-06,ORD1119,CUST2119,Small Business,Switch 8-Port,Networking,West,Seattle,1,89.38,49.66
+2023-10-07,ORD1192,CUST2192,Corporate,"Monitor 27""",Displays,Northeast,New York,1,407.12,254.46
+2023-10-10,ORD1099,CUST2099,Consumer,Laptop Pro,Computers,Southeast,Atlanta,2,2597.01,1897.83
+2023-10-11,ORD1049,CUST2049,Consumer,Desktop Elite,Computers,Northeast,New York,2,3123.81,2342.87
+2023-10-11,ORD1170,CUST2170,Corporate,Wireless Mouse,Accessories,Southeast,Charlotte,2,96.08,38.44
+2023-10-14,ORD1279,CUST2279,Corporate,Smartphone Plus,Mobile Devices,Southeast,Atlanta,1,943.8,681.64
+2023-10-16,ORD1223,CUST2223,Consumer,External Drive 1TB,Storage,West,Seattle,3,231.29,130.12
+2023-10-19,ORD1304,CUST2304,Small Business,Router Mesh,Networking,West,Seattle,1,193.85,116.31
+2023-10-20,ORD1076,CUST2076,Corporate,"Monitor 32""",Displays,Midwest,Detroit,3,1580.77,1005.96
+2023-10-22,ORD1142,CUST2142,Consumer,"Monitor 32""",Displays,Northeast,New York,2,1122.41,714.27
+2023-10-23,ORD1118,CUST2118,Small Business,Router Mesh,Networking,Northeast,New York,1,198.04,118.83
+2023-10-30,ORD1156,CUST2156,Consumer,Webcam HD,Accessories,Northeast,New York,1,94.19,47.1
+2023-10-30,ORD1218,CUST2218,Corporate,Smartphone Plus,Mobile Devices,Northeast,Philadelphia,3,2731.84,1973.02
+2023-11-01,ORD1268,CUST2268,Consumer,Router Mesh,Networking,Northeast,Philadelphia,1,257.79,154.68
+2023-11-01,ORD1293,CUST2293,Small Business,Scanner Plus,Peripherals,Southeast,Charlotte,1,324.33,194.61
+2023-11-03,ORD1283,CUST2283,Small Business,Webcam HD,Accessories,West,Los Angeles,1,120.68,60.35
+2023-11-04,ORD1043,CUST2043,Consumer,Router Mesh,Networking,Midwest,Chicago,1,272.95,163.78
+2023-11-04,ORD1256,CUST2256,Small Business,Mechanical Keyboard,Accessories,Southeast,Miami,1,177.19,88.6
+2023-11-06,ORD1046,CUST2046,Consumer,Laptop Pro,Computers,Midwest,Minneapolis,4,6512.73,4759.34
+2023-11-06,ORD1149,CUST2149,Consumer,"Monitor 27""",Displays,West,San Francisco,1,523.73,327.34
+2023-11-09,ORD1112,CUST2112,Small Business,Desktop Elite,Computers,Northeast,Boston,1,2113.36,1585.03
+2023-11-11,ORD1022,CUST2022,Small Business,"Monitor 32""",Displays,Northeast,Boston,4,2741.45,1744.59
+2023-11-12,ORD1052,CUST2052,Consumer,Headset Premium,Accessories,Northeast,New York,2,422.92,211.47
+2023-11-12,ORD1318,CUST2318,Consumer,Laptop Pro,Computers,West,San Francisco,2,3406.44,2489.34
+2023-11-14,ORD1214,CUST2214,Small Business,External Drive 1TB,Storage,Southeast,Charlotte,4,408.03,229.54
+2023-11-21,ORD1141,CUST2141,Consumer,Switch 8-Port,Networking,Northeast,Philadelphia,1,119.14,66.2
+2023-11-27,ORD1120,CUST2120,Consumer,Printer Pro,Peripherals,Northeast,Boston,4,1612.36,967.45
+2023-12-01,ORD1064,CUST2064,Consumer,External Drive 1TB,Storage,Midwest,Minneapolis,1,105.7,59.46
+2023-12-06,ORD1138,CUST2138,Small Business,Smartphone Plus,Mobile Devices,West,Seattle,3,3339.85,2412.14
+2023-12-08,ORD1168,CUST2168,Consumer,"Monitor 32""",Displays,Southeast,Charlotte,1,733.95,467.06
+2023-12-13,ORD1026,CUST2026,Consumer,Laptop Pro,Computers,Southeast,Charlotte,1,1725.11,1260.67
+2023-12-14,ORD1187,CUST2187,Consumer,Headset Premium,Accessories,Northeast,Boston,2,411.85,205.94
+2023-12-15,ORD1018,CUST2018,Consumer,Smartphone Plus,Mobile Devices,Midwest,Detroit,1,1223.08,883.35
+2023-12-15,ORD1108,CUST2108,Corporate,Mechanical Keyboard,Accessories,Northeast,New York,1,161.64,80.83
+2023-12-15,ORD1133,CUST2133,Small Business,Printer Pro,Peripherals,Northeast,New York,1,393.38,236.03
+2023-12-16,ORD1189,CUST2189,Small Business,Mechanical Keyboard,Accessories,Midwest,Detroit,1,176.45,88.23
+2023-12-19,ORD1102,CUST2102,Small Business,SSD 500GB,Storage,Midwest,Detroit,1,152.97,89.24
+2023-12-20,ORD1270,CUST2270,Small Business,External Drive 1TB,Storage,Southeast,Miami,2,204.21,114.88
+2023-12-21,ORD1263,CUST2263,Consumer,Scanner Plus,Peripherals,Northeast,New York,2,653.28,391.98
+2023-12-21,ORD1296,CUST2296,Corporate,Router Mesh,Networking,Midwest,Minneapolis,1,268.51,161.12
+2023-12-25,ORD1086,CUST2086,Consumer,"Monitor 32""",Displays,Northeast,Philadelphia,2,1494.27,950.91
+2023-12-25,ORD1185,CUST2185,Small Business,Headset Premium,Accessories,Northeast,New York,1,206.51,103.26
+2023-12-26,ORD1202,CUST2202,Consumer,Wireless Mouse,Accessories,Southeast,Atlanta,1,62.87,25.15
+2023-12-27,ORD1184,CUST2184,Small Business,Smartphone Plus,Mobile Devices,Southeast,Atlanta,1,1210.62,874.34
+2023-12-28,ORD1234,CUST2234,Small Business,"Monitor 32""",Displays,West,Seattle,2,1433.33,912.14
+2023-12-28,ORD1247,CUST2247,Consumer,SSD 500GB,Storage,Midwest,Minneapolis,1,158.13,92.25
+2023-12-28,ORD1275,CUST2275,Corporate,Desktop Elite,Computers,Northeast,New York,2,4302.6,3226.97
+2023-12-29,ORD1053,CUST2053,Consumer,SSD 500GB,Storage,Southeast,Atlanta,4,643.34,375.31
+2024-01-03,ORD1166,CUST2166,Consumer,Desktop Elite,Computers,West,San Francisco,4,6152.34,4614.28
+2024-01-05,ORD1235,CUST2235,Corporate,Tablet X,Mobile Devices,Northeast,New York,1,545.75,382.03
+2024-01-08,ORD1248,CUST2248,Small Business,Mechanical Keyboard,Accessories,Northeast,Boston,2,237.7,118.86
+2024-01-13,ORD1284,CUST2284,Small Business,Webcam HD,Accessories,Northeast,New York,1,86.09,43.05
+2024-01-15,ORD1009,CUST2009,Corporate,Headset Premium,Accessories,Southeast,Charlotte,2,299.78,149.9
+2024-01-17,ORD1182,CUST2182,Small Business,Wireless Mouse,Accessories,Northeast,Philadelphia,2,93.55,37.43
+2024-01-17,ORD1211,CUST2211,Corporate,Scanner Plus,Peripherals,West,San Francisco,2,439.39,263.65
+2024-01-18,ORD1236,CUST2236,Consumer,Printer Pro,Peripherals,Northeast,New York,1,282.42,169.46
+2024-01-19,ORD1228,CUST2228,Consumer,"Monitor 32""",Displays,Northeast,New York,3,1540.74,980.49
+2024-01-20,ORD1322,CUST2322,Corporate,Tablet X,Mobile Devices,Southeast,Charlotte,1,579.2,405.44
+2024-01-21,ORD1215,CUST2215,Small Business,Webcam HD,Accessories,Southeast,Charlotte,3,254.3,127.17
+2024-01-23,ORD1006,CUST2006,Small Business,Tablet X,Mobile Devices,Midwest,Minneapolis,3,1633.06,1143.16
+2024-01-24,ORD1065,CUST2065,Small Business,Mechanical Keyboard,Accessories,Midwest,Detroit,3,351.74,175.88
+2024-01-26,ORD1137,CUST2137,Consumer,External Drive 1TB,Storage,Southeast,Miami,1,77.02,43.33
+2024-01-28,ORD1132,CUST2132,Corporate,"Monitor 27""",Displays,Southeast,Atlanta,2,762.07,476.3
+2024-01-28,ORD1136,CUST2136,Corporate,"Monitor 32""",Displays,West,Seattle,2,1032.75,657.22
+2024-01-29,ORD1070,CUST2070,Consumer,Switch 8-Port,Networking,West,Seattle,2,157.39,87.45
+2024-01-29,ORD1272,CUST2272,Corporate,SSD 500GB,Storage,Southeast,Atlanta,4,451.33,263.3
+2024-02-03,ORD1081,CUST2081,Consumer,Webcam HD,Accessories,West,Los Angeles,3,258.79,129.41
+2024-02-04,ORD1080,CUST2080,Consumer,SSD 500GB,Storage,Southeast,Miami,1,110.23,64.31
+2024-02-07,ORD1323,CUST2323,Consumer,Wireless Mouse,Accessories,Southeast,Atlanta,4,183.28,73.33
+2024-02-09,ORD1295,CUST2295,Consumer,Headset Premium,Accessories,Southeast,Miami,1,150.34,75.18
+2024-02-13,ORD1025,CUST2025,Corporate,Headset Premium,Accessories,West,Los Angeles,1,143.14,71.57
+2024-02-15,ORD1012,CUST2012,Small Business,Printer Pro,Peripherals,Northeast,Boston,3,812.63,487.59
+2024-02-15,ORD1035,CUST2035,Consumer,Desktop Elite,Computers,Southeast,Miami,5,7187.14,5390.39
+2024-02-18,ORD1126,CUST2126,Consumer,Laptop Pro,Computers,West,San Francisco,1,1179.46,861.92
+2024-02-20,ORD1311,CUST2311,Corporate,Scanner Plus,Peripherals,Northeast,Philadelphia,1,223.57,134.15
+2024-02-22,ORD1078,CUST2078,Consumer,Webcam HD,Accessories,West,San Francisco,1,82.13,41.07
+2024-02-22,ORD1164,CUST2164,Corporate,Printer Pro,Peripherals,Northeast,Philadelphia,1,274.46,164.68
+2024-02-23,ORD1161,CUST2161,Consumer,Smartphone Plus,Mobile Devices,Southeast,Atlanta,1,827.38,597.56
+2024-02-25,ORD1183,CUST2183,Consumer,Headset Premium,Accessories,West,Los Angeles,4,594.67,297.36
+2024-02-27,ORD1054,CUST2054,Corporate,Laptop Pro,Computers,Southeast,Charlotte,2,2370.86,1732.57
+2024-02-29,ORD1227,CUST2227,Corporate,Desktop Elite,Computers,West,Los Angeles,1,1544.78,1158.6
+2024-03-01,ORD1180,CUST2180,Corporate,Smartphone Plus,Mobile Devices,Midwest,Detroit,2,2043.96,1476.21
+2024-03-03,ORD1343,CUST2343,Corporate,Scanner Plus,Peripherals,Southeast,Atlanta,1,289.49,173.7
+2024-03-14,ORD1083,CUST2083,Consumer,Wireless Mouse,Accessories,West,Seattle,1,56.5,22.6
+2024-03-16,ORD1178,CUST2178,Small Business,Smartphone Plus,Mobile Devices,Northeast,Philadelphia,3,3120.9,2254.01
+2024-03-17,ORD1030,CUST2030,Corporate,Headset Premium,Accessories,West,San Francisco,3,527.36,263.7
+2024-03-22,ORD1061,CUST2061,Consumer,Smartphone Plus,Mobile Devices,West,Los Angeles,1,1056.6,763.11
+2024-03-24,ORD1128,CUST2128,Small Business,Switch 8-Port,Networking,Northeast,Boston,2,201.58,112.0
+2024-03-26,ORD1243,CUST2243,Corporate,External Drive 1TB,Storage,Midwest,Chicago,2,181.54,102.13
+2024-03-28,ORD1050,CUST2050,Consumer,SSD 500GB,Storage,Northeast,Boston,4,562.5,328.15
+2024-03-28,ORD1148,CUST2148,Corporate,Headset Premium,Accessories,Midwest,Minneapolis,2,366.39,183.21
+2024-03-28,ORD1205,CUST2205,Consumer,Scanner Plus,Peripherals,Midwest,Minneapolis,1,275.25,165.15
+2024-03-30,ORD1221,CUST2221,Small Business,Scanner Plus,Peripherals,West,Seattle,1,300.87,180.53
+2024-04-01,ORD1246,CUST2246,Corporate,SSD 500GB,Storage,Southeast,Charlotte,1,131.67,76.82
+2024-04-02,ORD1309,CUST2309,Small Business,Printer Pro,Peripherals,Midwest,Detroit,2,656.27,393.77
+2024-04-04,ORD1003,CUST2003,Small Business,Printer Pro,Peripherals,Northeast,Boston,1,337.33,202.4
+2024-04-09,ORD1115,CUST2115,Small Business,Tablet X,Mobile Devices,Southeast,Miami,2,1421.92,995.36
+2024-04-10,ORD1036,CUST2036,Small Business,Scanner Plus,Peripherals,West,Los Angeles,5,1445.46,867.31
+2024-04-10,ORD1084,CUST2084,Corporate,Webcam HD,Accessories,Midwest,Detroit,2,213.85,106.94
+2024-04-10,ORD1158,CUST2158,Corporate,Headset Premium,Accessories,Midwest,Minneapolis,3,576.27,288.15
+2024-04-10,ORD1167,CUST2167,Small Business,Tablet X,Mobile Devices,Southeast,Charlotte,2,1313.93,919.76
+2024-04-15,ORD1147,CUST2147,Corporate,Printer Pro,Peripherals,Northeast,New York,2,666.38,399.84
+2024-04-17,ORD1206,CUST2206,Corporate,Router Mesh,Networking,Northeast,Boston,3,660.76,396.48
+2024-04-18,ORD1033,CUST2033,Small Business,"Monitor 32""",Displays,Northeast,New York,1,642.11,408.62
+2024-04-19,ORD1334,CUST2334,Small Business,Desktop Elite,Computers,West,San Francisco,2,3638.92,2729.2
+2024-04-20,ORD1269,CUST2269,Consumer,"Monitor 27""",Displays,Midwest,Minneapolis,1,470.03,293.78
+2024-04-22,ORD1271,CUST2271,Consumer,Smartphone Plus,Mobile Devices,Midwest,Detroit,1,988.48,713.91
+2024-04-22,ORD1340,CUST2340,Corporate,Headset Premium,Accessories,Midwest,Detroit,2,367.88,183.95
+2024-04-25,ORD1222,CUST2222,Small Business,"Monitor 27""",Displays,Midwest,Minneapolis,5,2291.13,1431.99
+2024-04-26,ORD1056,CUST2056,Corporate,"Monitor 32""",Displays,Southeast,Miami,1,651.17,414.39
+2024-04-29,ORD1067,CUST2067,Small Business,Mechanical Keyboard,Accessories,Northeast,New York,2,302.54,151.28
+2024-05-01,ORD1069,CUST2069,Small Business,Tablet X,Mobile Devices,West,San Francisco,2,1410.11,987.09
+2024-05-02,ORD1173,CUST2173,Small Business,Router Mesh,Networking,Midwest,Minneapolis,1,230.08,138.05
+2024-05-02,ORD1300,CUST2300,Corporate,Switch 8-Port,Networking,Southeast,Miami,1,98.93,54.97
+2024-05-05,ORD1175,CUST2175,Consumer,External Drive 1TB,Storage,West,Los Angeles,1,95.76,53.87
+2024-05-05,ORD1259,CUST2259,Consumer,SSD 500GB,Storage,West,Los Angeles,1,135.46,79.03
+2024-05-12,ORD1023,CUST2023,Small Business,Tablet X,Mobile Devices,Southeast,Atlanta,1,693.42,485.41
+2024-05-13,ORD1037,CUST2037,Consumer,Wireless Mouse,Accessories,Southeast,Miami,4,231.77,92.73
+2024-05-15,ORD1346,CUST2346,Consumer,Mechanical Keyboard,Accessories,Northeast,Philadelphia,3,429.38,214.7
+2024-05-17,ORD1345,CUST2345,Corporate,Router Mesh,Networking,Southeast,Charlotte,1,235.06,141.04
+2024-05-18,ORD1109,CUST2109,Consumer,Tablet X,Mobile Devices,Northeast,Boston,3,2162.93,1514.08
+2024-05-25,ORD1127,CUST2127,Corporate,Router Mesh,Networking,Northeast,Boston,2,479.65,287.8
+2024-06-01,ORD1315,CUST2315,Corporate,"Monitor 27""",Displays,Southeast,Atlanta,3,1371.94,857.48
+2024-06-05,ORD1131,CUST2131,Corporate,Printer Pro,Peripherals,West,San Francisco,1,346.76,208.06
+2024-06-12,ORD1225,CUST2225,Consumer,Smartphone Plus,Mobile Devices,Midwest,Chicago,1,1076.94,777.8
+2024-06-15,ORD1122,CUST2122,Small Business,Router Mesh,Networking,Midwest,Chicago,1,237.22,142.34
+2024-06-15,ORD1244,CUST2244,Corporate,Printer Pro,Peripherals,Northeast,Philadelphia,1,348.52,209.12
+2024-06-17,ORD1330,CUST2330,Corporate,"Monitor 32""",Displays,West,San Francisco,1,660.86,420.55
+2024-06-21,ORD1105,CUST2105,Corporate,Scanner Plus,Peripherals,Northeast,Boston,1,278.27,166.97
+2024-06-21,ORD1332,CUST2332,Consumer,Webcam HD,Accessories,West,San Francisco,1,100.22,50.11
+2024-06-27,ORD1039,CUST2039,Consumer,Mechanical Keyboard,Accessories,Northeast,Philadelphia,3,429.12,214.57
+2024-06-29,ORD1291,CUST2291,Small Business,Webcam HD,Accessories,Midwest,Minneapolis,2,213.26,106.64
+2024-07-02,ORD1233,CUST2233,Consumer,Laptop Pro,Computers,Southeast,Charlotte,1,1420.47,1038.05
+2024-07-03,ORD1059,CUST2059,Corporate,Webcam HD,Accessories,Northeast,Boston,1,108.28,54.14
+2024-07-04,ORD1333,CUST2333,Corporate,Switch 8-Port,Networking,Southeast,Atlanta,3,299.42,166.37
+2024-07-06,ORD1155,CUST2155,Corporate,Headset Premium,Accessories,Midwest,Chicago,3,576.48,288.26
+2024-07-07,ORD1034,CUST2034,Consumer,Laptop Pro,Computers,Northeast,Boston,1,1492.2,1090.46
+2024-07-09,ORD1038,CUST2038,Consumer,Desktop Elite,Computers,Midwest,Chicago,2,3681.03,2760.79
+2024-07-10,ORD1135,CUST2135,Consumer,External Drive 1TB,Storage,West,San Francisco,5,447.93,251.99
+2024-07-11,ORD1324,CUST2324,Consumer,SSD 500GB,Storage,West,Seattle,1,133.23,77.72
+2024-07-15,ORD1074,CUST2074,Corporate,Router Mesh,Networking,Southeast,Charlotte,1,235.78,141.47
+2024-07-17,ORD1125,CUST2125,Corporate,Desktop Elite,Computers,West,Seattle,1,1769.32,1327.0
+2024-07-18,ORD1258,CUST2258,Corporate,Wireless Mouse,Accessories,Northeast,Boston,1,58.74,23.5
+2024-07-18,ORD1261,CUST2261,Small Business,Mechanical Keyboard,Accessories,Southeast,Miami,3,428.53,214.28
+2024-07-25,ORD1280,CUST2280,Small Business,Headset Premium,Accessories,Southeast,Atlanta,2,367.98,184.0
+2024-07-27,ORD1294,CUST2294,Small Business,Printer Pro,Peripherals,Midwest,Chicago,2,681.68,409.02
+2024-07-28,ORD1014,CUST2014,Corporate,Printer Pro,Peripherals,West,Los Angeles,1,362.15,217.29
+2024-07-28,ORD1186,CUST2186,Consumer,Laptop Pro,Computers,Midwest,Chicago,1,1534.22,1121.17
+2024-08-02,ORD1145,CUST2145,Consumer,Mechanical Keyboard,Accessories,Southeast,Atlanta,2,295.47,147.74
+2024-08-11,ORD1150,CUST2150,Small Business,Scanner Plus,Peripherals,Midwest,Chicago,1,273.35,164.01
+2024-08-12,ORD1121,CUST2121,Consumer,Laptop Pro,Computers,Midwest,Minneapolis,2,2892.86,2114.03
+2024-08-12,ORD1329,CUST2329,Corporate,Webcam HD,Accessories,Midwest,Chicago,3,325.54,162.79
+2024-08-13,ORD1029,CUST2029,Corporate,Switch 8-Port,Networking,Southeast,Miami,1,99.32,55.18
+2024-08-14,ORD1286,CUST2286,Corporate,"Monitor 32""",Displays,Northeast,Philadelphia,1,640.65,407.69
+2024-08-16,ORD1204,CUST2204,Corporate,Router Mesh,Networking,Midwest,Minneapolis,1,220.06,132.04
+2024-08-21,ORD1079,CUST2079,Consumer,Laptop Pro,Computers,West,San Francisco,4,5859.53,4281.99
+2024-08-26,ORD1200,CUST2200,Corporate,External Drive 1TB,Storage,Northeast,New York,2,178.85,100.62
+2024-08-30,ORD1193,CUST2193,Consumer,Switch 8-Port,Networking,Midwest,Chicago,1,104.52,58.07
+2024-09-01,ORD1073,CUST2073,Small Business,Webcam HD,Accessories,West,Los Angeles,3,308.19,154.11
+2024-09-02,ORD1190,CUST2190,Consumer,Tablet X,Mobile Devices,Northeast,Boston,2,1317.85,922.51
+2024-09-03,ORD1219,CUST2219,Consumer,External Drive 1TB,Storage,Southeast,Atlanta,3,283.45,159.46
+2024-09-08,ORD1002,CUST2002,Small Business,Laptop Pro,Computers,Southeast,Charlotte,2,2965.91,2167.42
+2024-09-10,ORD1005,CUST2005,Corporate,Printer Pro,Peripherals,Northeast,Philadelphia,2,722.62,433.59
+2024-09-16,ORD1160,CUST2160,Corporate,"Monitor 32""",Displays,Northeast,Philadelphia,3,1859.93,1183.61
+2024-09-21,ORD1174,CUST2174,Small Business,Desktop Elite,Computers,Midwest,Detroit,4,7036.72,5277.58
+2024-09-24,ORD1199,CUST2199,Corporate,Router Mesh,Networking,Midwest,Chicago,3,672.26,403.37
+2024-09-26,ORD1041,CUST2041,Small Business,Tablet X,Mobile Devices,West,Los Angeles,2,1354.64,948.26
+2024-09-26,ORD1287,CUST2287,Consumer,External Drive 1TB,Storage,Southeast,Charlotte,1,96.11,54.07
+2024-09-29,ORD1082,CUST2082,Small Business,Laptop Pro,Computers,West,Los Angeles,2,2865.58,2094.09
+2024-09-30,ORD1063,CUST2063,Corporate,Webcam HD,Accessories,Northeast,Philadelphia,2,210.43,105.23
+2024-09-30,ORD1140,CUST2140,Small Business,External Drive 1TB,Storage,Northeast,New York,3,272.65,153.39
+2024-10-04,ORD1091,CUST2091,Corporate,"Monitor 32""",Displays,Northeast,Philadelphia,3,1916.52,1219.62
+2024-10-04,ORD1267,CUST2267,Consumer,Scanner Plus,Peripherals,Midwest,Detroit,3,878.42,527.07
+2024-10-05,ORD1237,CUST2237,Consumer,Smartphone Plus,Mobile Devices,Midwest,Chicago,1,1018.28,735.43
+2024-10-08,ORD1212,CUST2212,Consumer,Webcam HD,Accessories,Northeast,New York,2,204.63,102.33
+2024-10-10,ORD1177,CUST2177,Small Business,Webcam HD,Accessories,West,Los Angeles,1,103.55,51.78
+2024-10-12,ORD1094,CUST2094,Consumer,Router Mesh,Networking,Southeast,Miami,2,481.39,288.85
+2024-10-13,ORD1152,CUST2152,Small Business,"Monitor 27""",Displays,Midwest,Minneapolis,2,936.62,585.4
+2024-10-14,ORD1075,CUST2075,Consumer,Printer Pro,Peripherals,West,Los Angeles,1,330.41,198.25
+2024-10-15,ORD1349,CUST2349,Consumer,Switch 8-Port,Networking,West,Seattle,2,205.14,113.98
+2024-10-16,ORD1000,CUST2000,Corporate,Smartphone Plus,Mobile Devices,Northeast,Philadelphia,1,997.68,720.56
+2024-10-16,ORD1307,CUST2307,Corporate,External Drive 1TB,Storage,West,Los Angeles,1,93.55,52.63
+2024-10-17,ORD1011,CUST2011,Consumer,"Monitor 32""",Displays,Midwest,Chicago,3,1955.35,1244.33
+2024-10-17,ORD1198,CUST2198,Corporate,SSD 500GB,Storage,Midwest,Chicago,1,135.57,79.09
+2024-10-18,ORD1321,CUST2321,Corporate,SSD 500GB,Storage,Midwest,Detroit,3,430.8,251.32
+2024-10-20,ORD1238,CUST2238,Corporate,Mechanical Keyboard,Accessories,West,Los Angeles,2,308.29,154.16
+2024-10-25,ORD1093,CUST2093,Corporate,Webcam HD,Accessories,Northeast,New York,1,108.26,54.13
+2024-10-31,ORD1031,CUST2031,Small Business,Smartphone Plus,Mobile Devices,Northeast,New York,1,1072.42,774.54
+2024-10-31,ORD1310,CUST2310,Small Business,Headset Premium,Accessories,Southeast,Atlanta,1,180.43,90.22
+2024-11-02,ORD1013,CUST2013,Corporate,Switch 8-Port,Networking,West,Los Angeles,1,129.69,72.06
+2024-11-02,ORD1242,CUST2242,Corporate,Webcam HD,Accessories,Midwest,Chicago,1,133.19,66.6
+2024-11-06,ORD1134,CUST2134,Small Business,Switch 8-Port,Networking,Southeast,Miami,1,132.28,73.5
+2024-11-15,ORD1097,CUST2097,Corporate,External Drive 1TB,Storage,Midwest,Chicago,3,347.34,195.4
+2024-11-15,ORD1347,CUST2347,Consumer,Desktop Elite,Computers,Northeast,New York,3,6983.23,5237.46
+2024-11-16,ORD1028,CUST2028,Consumer,Switch 8-Port,Networking,Southeast,Charlotte,2,279.36,155.22
+2024-11-16,ORD1055,CUST2055,Small Business,"Monitor 32""",Displays,Midwest,Chicago,1,852.84,542.72
+2024-11-19,ORD1276,CUST2276,Consumer,Switch 8-Port,Networking,Midwest,Minneapolis,3,400.82,222.7
+2024-11-19,ORD1327,CUST2327,Consumer,Desktop Elite,Computers,Southeast,Charlotte,1,2328.44,1746.34
+2024-11-23,ORD1157,CUST2157,Corporate,External Drive 1TB,Storage,Midwest,Chicago,1,120.02,67.52
+2024-11-24,ORD1090,CUST2090,Consumer,External Drive 1TB,Storage,West,Los Angeles,1,121.86,68.56
+2024-11-27,ORD1016,CUST2016,Corporate,SSD 500GB,Storage,Northeast,New York,2,357.62,208.63
+2024-11-27,ORD1316,CUST2316,Small Business,"Monitor 27""",Displays,West,Seattle,1,571.41,357.14
+2024-11-30,ORD1146,CUST2146,Consumer,"Monitor 32""",Displays,West,Los Angeles,1,833.57,530.47
+2024-12-02,ORD1216,CUST2216,Corporate,Tablet X,Mobile Devices,West,Los Angeles,1,879.84,615.9
+2024-12-03,ORD1151,CUST2151,Consumer,Desktop Elite,Computers,West,San Francisco,2,4713.32,3535.01
+2024-12-05,ORD1285,CUST2285,Small Business,Laptop Pro,Computers,West,San Francisco,2,3994.31,2918.94
+2024-12-06,ORD1114,CUST2114,Consumer,Switch 8-Port,Networking,Midwest,Chicago,1,131.61,73.13
+2024-12-07,ORD1104,CUST2104,Small Business,Mechanical Keyboard,Accessories,Southeast,Atlanta,1,198.7,99.36
+2024-12-09,ORD1101,CUST2101,Small Business,"Monitor 32""",Displays,Midwest,Minneapolis,1,826.63,526.05
+2024-12-14,ORD1163,CUST2163,Small Business,SSD 500GB,Storage,Southeast,Miami,1,179.19,104.54
+2024-12-19,ORD1313,CUST2313,Small Business,Switch 8-Port,Networking,Southeast,Atlanta,2,279.11,155.08
+2024-12-21,ORD1196,CUST2196,Corporate,"Monitor 32""",Displays,Midwest,Chicago,3,2353.8,1497.9
+2024-12-23,ORD1230,CUST2230,Consumer,Switch 8-Port,Networking,West,Los Angeles,3,384.19,213.46
+2024-12-25,ORD1348,CUST2348,Small Business,Wireless Mouse,Accessories,Northeast,Boston,1,71.45,28.59
